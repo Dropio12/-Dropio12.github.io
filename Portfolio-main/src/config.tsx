@@ -1,32 +1,28 @@
 import React from 'react'
-const github_username = 'Isaaruwu'
-const discord_usertag = 'Isaar#9003'
-const discord_userid = '795096902591971338'
-const email = 'ismailaarabb@gmail.com'
+const github_username = 'Dropio12'
+const discord_usertag = '5kg'
+const discord_userid = '157839368453750784'
+const email = 'anass.elhallaoui@gmail.com'
 
 const projects = [
-	'Isaaruwu/Rewind',
-	'Isaaruwu/.dotfiles',
-	'Isaaruwu/Plant-e',
-	'Isaaruwu/TomStock',
-	'Isaaruwu/Template-Generator',
-	'Isaaruwu/PolyAI-EmailSender',
-	'Isaaruwu/SmollBot',
-	// 'Isaaruwu/EstateGuardian', private repo
-	// 'Isaaruwu/StockAI2', private repo
+	'Dropio12/filetrust',
+	'Dropio12/FlightO',
+	'Dropio12/Translator-AI',
+	'Dropio12/CryptoBot',
+	'Dropio12/ResearchPrinceton'
 ]
 
 const links = [
 	{
 		name: 'Linkedin',
 		icon: 'fab fa-fw fa-linkedin-in',
-		link: 'https://www.linkedin.com/in/ismail-aarab-25b2061b0/',
+		link: 'https://www.linkedin.com/in/badreddine-el-hallaoui-027a08228/',
 		description: 'Connect with me!',
 	},
 	{
 		name: 'GitHub',
 		icon: 'fab fa-fw fa-github',
-		link: 'https://github.com/Isaaruwu',
+		link: 'https://github.com/Dropio12',
 		description: 'My Github profile',
 	},
 	{

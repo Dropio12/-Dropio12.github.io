@@ -48,7 +48,7 @@ const rawCommands: Command[] = [
 								alt="GitHub avatar"
 							/>
 							<div className={styles.header}>
-								<strong>Ismail Aarab</strong>
+								<strong>Anass Badreddine El Hallaoui</strong>
 								<p className="muted">@{login}</p>
 							</div>
 						</div>	
