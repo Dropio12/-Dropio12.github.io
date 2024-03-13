@@ -1,8 +1,8 @@
 import React from 'react'
 import styles from './commands.module.scss'
-import { links, info } from '../config'
-import { Commands, Command } from '../typings'
-import ListElement from '../ListElement/ListElement'
+import { links, info } from './config'
+import { Commands, Command } from './typings'
+import ListElement from './ListElement'
 
 const rawCommands: Command[] = [
 	{

@@ -1,5 +1,5 @@
 import React from 'react'
-import { ListElementProps } from '../typings'
+import { ListElementProps } from './typings'
 import styles from './ListElement.module.scss'
 
 const ListElement = (props: ListElementProps) => {

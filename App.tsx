@@ -1,9 +1,9 @@
 import React, { Component, createRef, RefObject } from 'react'
 import styles from './App.module.scss'
-import commands from '../commands/commands'
-import { projects, github_username } from '../config'
-import { AppState } from '../typings'
-import InputManager from '../InputManager/InputManager'
+import commands from './commands'
+import { projects, github_username } from './config'
+import { AppState } from './typings'
+import InputManager from './InputManager'
 
 class App extends Component<{}, AppState> {
 	mainRef: RefObject<any>

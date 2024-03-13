@@ -1,7 +1,7 @@
 import React, { Component, RefObject, createRef } from 'react'
-import commands from '../commands/commands'
-import { github_username } from '../config'
-import { InputManagerState } from '../typings'
+import commands from './commands'
+import { github_username } from './config'
+import { InputManagerState } from './typings'
 import styles from './InputManager.module.scss'
 
 class InputManager extends Component<
